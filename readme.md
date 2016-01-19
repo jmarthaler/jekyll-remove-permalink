@@ -5,4 +5,4 @@ When transitioning from Wordpress to Jekyll, I used [an exporter from Ben Balter
 
 Usage
 -----
-Run it from the site root; it'll loop through anything with a .md extension, look for the 'permalink:' line in the post, and remove it. (Hopefully) simple. 
+Run it from the Jekyll site root; it'll loop through anything with a .md extension, look for the 'permalink:' line in the post, and remove it. (Hopefully) simple. 
